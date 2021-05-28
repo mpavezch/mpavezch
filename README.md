@@ -1,5 +1,5 @@
 - 👋 </> Hola Mundo • Bienvenidos a mi repositorio de Github :octocat:
-- 🌱 I’m currently student in a <b>Front-End Bootcamp</b> :computer:
-- :cat2: CatLover :hearts: Father of Six 
-- :pager: I'll soon start writing articles on my Blog :smile:
-- :rocket: “En mi tarjeta de presentación, soy un Ingeniero. En mi mente, soy un programador. Pero en mi corazón, soy un Gamer." 🎮
+- 🌱 Actualmente me encuentro realizando un <b>Bootcamp</b> en <b>Desarrollo web Front-End</b> :computer:
+- :cat2: Amo los gatos
+- :pager: Próximamente retomaré uno de mis viejos Blog :blush:
+- :rocket: “En mi tarjeta de presentación, soy un Ingeniero. En mi mente, soy un programador. Pero en mi corazón, soy un <b>Gamer</b>." 🎮
